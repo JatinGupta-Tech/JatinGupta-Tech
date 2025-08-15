@@ -1,23 +1,18 @@
-<!-- [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)  -->
-
-<!-- <h3> नमस्ते (Namaste)🙏🏻, I am Varad Bhogayata 👋</h3> -->
 ### Hey there 👋  I am Jatin Gupta
 [![Linkedin Badge](https://img.shields.io/badge/-JatinGupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jatingupt/)](https://www.linkedin.com/in/jatingupt/)
 [![Gmail Badge](https://img.shields.io/badge/-Jatin.gupt4@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jatin.gupt4@gmail.com)](mailto:vbhogayata@gmail.com) 
 
 
-- 🔭 Currently working as Assistant Manager at **<a href="https://kpmg.com/in/en.html">KPMG</a>**
-- 🛠 Experience of 8+ years on design, develop & testing of restful APIs in nodejs for web & mobile application in different framework using cloud, devops & agile methodology.
-- 👯 I’m looking for opportunities where I can learn and build **Amazing Scalable Products**
-- ⚡ Fun fact: The first rule of programming - if it works, don’t touch it.🤓
-- 📬 How to reach me: [Let's get in touch!][linkedin] -->
+- Currently working as Assistant Manager at **<a href="https://kpmg.com/in/en.html">KPMG</a>**
+- Experience of 8+ years on design, develop & testing of restful APIs in nodejs for web & mobile application in different framework using cloud, devops & agile methodology.
+- I’m looking for opportunities where I can learn and build **Amazing Scalable Products**
+- Fun fact: The first rule of programming - if it works, don’t touch it.🤓
+- How to reach me: [Let's get in touch!][linkedin] -->
 
 <br>
 <br>
 
-
-
-🛠**Tech Stack / Frameworks**
+**Tech Stack / Frameworks**
 
 ![NodeJs](https://img.shields.io/badge/-NodeJs-000000?style=flat&logo=nodedotjs)
 ![Javascript](https://img.shields.io/badge/-Javascript-000000?style=flat&logo=javascript)
@@ -35,15 +30,14 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
 
 
-🛠 **Other Tools**
+**Other Tools**
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=FCC624)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-000000?style=flat&logo=bitbucket&logoColor=0052CC)
 ![Jira](https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira&logoColor=0052CC)
 ![Confluence](https://img.shields.io/badge/-Confluence-000000?style=flat&logo=confluence&logoColor=0052CC)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-000000?style=flat&logo=jenkins )
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman&logoColor=#FF6C37)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=#2496ED)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=kubernetes&logoColor=#326CE5)
@@ -56,7 +50,7 @@
 ## 🔥 My Stats
 <div>
 <a href="https://github.com/JatinGupta-Tech/JatinGupta-Tech">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinGupta-Tech&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=151515&langs_count=5" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinGupta-Tech&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=151515&langs_count=5" />
 </a>
 <a href="https://github.com/JatinGupta-Tech/JatinGupta-Tech">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JatinGupta-Tech&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=151515" alt="Jatin's GitHub Stats" />
