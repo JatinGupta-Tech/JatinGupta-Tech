@@ -7,6 +7,7 @@
 - Experience of 8+ years on design, develop & testing of restful APIs in nodejs for web & mobile application in different framework using cloud, devops & agile methodology.
 - I’m looking for opportunities where I can learn and build **Amazing Scalable Products**
 - Fun fact: The first rule of programming - if it works, don’t touch it.🤓
+- I also love to write and share my knowledge on Medium. <a href="https://medium.com/@jatingupt4">Checkout My blogs</a>
 - How to reach me: [Let's get in touch!][linkedin] -->
 
 <br>
