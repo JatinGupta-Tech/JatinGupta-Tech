@@ -15,11 +15,12 @@
 **Tech Stack / Frameworks**
 
 ![NodeJs](https://img.shields.io/badge/-NodeJs-000000?style=flat&logo=nodedotjs)
+![Npm](https://img.shields.io/badge/-Npm-000000?style=flat&logo=npm&logoColor=#CB3837)
 ![Javascript](https://img.shields.io/badge/-Javascript-000000?style=flat&logo=javascript)
 ![Typescript](https://img.shields.io/badge/-Typescript-000000?style=flat&logo=typescript)
-![NestJs](https://img.shields.io/badge/-NestJs-000000?style=flat&logo=nestjs)
+![NestJs](https://img.shields.io/badge/-NestJs-000000?style=flat&logo=nestjs&logoColor=#E0234E)
 ![Typeorm](https://img.shields.io/badge/-Typeorm-000000?style=flat&logo=typeorm)
-![Loopback](https://img.shields.io/badge/-Loopback-000000?style=flat&logo=loopback)
+![Loopback](https://img.shields.io/badge/-Loopback-000000?style=flat&logo=loopback&logoColor=#3F5DFF)
 
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
 ![Mongodb](https://img.shields.io/badge/-Mongodb-000000?style=flat&logo=mongodb)
@@ -34,17 +35,29 @@
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+![Gitkraken](https://img.shields.io/badge/-Gitkraken-000000?style=flat&logo=gitkraken&logoColor=#179287)
+![Sourcetree](https://img.shields.io/badge/-Sourcetree-000000?style=flat&logo=sourcetree&logoColor=#0052CC)
+![Gitlab](https://img.shields.io/badge/-Gitlab-000000?style=flat&logo=gitlab&logoColor=#FC6D26)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-000000?style=flat&logo=bitbucket&logoColor=0052CC)
 ![Jira](https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira&logoColor=0052CC)
 ![Confluence](https://img.shields.io/badge/-Confluence-000000?style=flat&logo=confluence&logoColor=0052CC)
+![Swagger](https://img.shields.io/badge/-Swagger-000000?style=flat&logo=swagger&logoColor=#85EA2D)
+![IntellijIdea](https://img.shields.io/badge/-IntellijIdea-000000?style=flat&logo=intellijidea&logoColor=#FC6D26)
+![Json](https://img.shields.io/badge/-Json-000000?style=flat&logo=json&logoColor=#FC6D26)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-000000?style=flat&logo=jenkins )
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman&logoColor=#FF6C37)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=#2496ED)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=kubernetes&logoColor=#326CE5)
 ![Kibana](https://img.shields.io/badge/-Kibana-000000?style=flat&logo=kibana&logoColor=#005571)
-![Googleplay](https://img.shields.io/badge/-Googleplay-000000?style=flat&logo=googleplay&logoColor=#414141)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-000000?style=flat&logo=elasticsearch&logoColor=#005571)
 ![lens](https://img.shields.io/badge/-Lens-000000?style=flat&logo=lens&logoColor=#3D90CE)
+![Googleplay](https://img.shields.io/badge/-Googleplay-000000?style=flat&logo=googleplay&logoColor=#414141)
 ![GoogleAnalytics](https://img.shields.io/badge/-GoogleAnalytics-000000?style=flat&logo=googleanalytics&logoColor=##E37400)
+![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-000000?style=flat&logo=androidstudio&logoColor=##E37400)
+![Dbeaver](https://img.shields.io/badge/-Dbeaver-000000?style=flat&logo=dbeaver&logoColor=#382923)
+
+
+
 
 
 ## 🔥 My Stats
