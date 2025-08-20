@@ -4,9 +4,11 @@
 
 
 - Currently working as Assistant Manager at **<a href="https://kpmg.com/in/en.html">KPMG</a>**
-- Experience of 8+ years on design, develop & testing of restful APIs in nodejs for web & mobile application in different framework using cloud, devops & agile methodology.
+- Experience of 8+ years on design, develop & testing of restful APIs in NodeJS for web & mobile apps in different framework using cloud,
+DevOps & Agile. Developed & deployed android apps to play store with proven digital marketing strategies. Azure and GitHub certified
+with cloud fundamentals skills. Sound knowledge of solution designs & API architecture.
 - Fun fact: The first rule of programming - if it works, don’t touch it.🤓
-- I also love writing Tech blogs on Medium. <a href="https://medium.com/@jatingupt4">Checkout My blogs</a>
+- I also love writing blogs on Medium. <a href="https://medium.com/@jatingupt4">Checkout My blogs</a>
 - How to reach me: [Let's get in touch!][linkedin] -->
 - Want to know about me: <a href="https://JatinGupta-Tech.github.io/">Portfolio Website</a> 
 
