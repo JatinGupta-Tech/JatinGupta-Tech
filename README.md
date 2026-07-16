@@ -2,6 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-JatinGupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jatingupt/)](https://www.linkedin.com/in/jatingupt/)
 [![Gmail Badge](https://img.shields.io/badge/-Jatin.gupt4@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jatin.gupt4@gmail.com)](mailto:vbhogayata@gmail.com) 
 
+[![My GitFut card](https://gitfut.com/JatinGupta-Tech.png)](https://gitfut.com/JatinGupta-Tech?country=IN)
 
 - Currently working as Assistant Manager at **<a href="https://kpmg.com/in/en.html">KPMG</a>**
 - Experience of 8+ years on design, develop & testing of restful APIs in NodeJS for web & mobile apps in different framework using cloud,
