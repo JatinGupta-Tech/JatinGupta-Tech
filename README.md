@@ -2,10 +2,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-JatinGupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jatingupt/)](https://www.linkedin.com/in/jatingupt/)
 [![Gmail Badge](https://img.shields.io/badge/-Jatin.gupt4@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jatin.gupt4@gmail.com)](mailto:vbhogayata@gmail.com) 
 
-[![My GitFut card](https://gitfut.com/JatinGupta-Tech.png)](https://gitfut.com/JatinGupta-Tech?country=IN)
-
 - Currently working as Assistant Manager at **<a href="https://kpmg.com/in/en.html">KPMG</a>**
-- Experience of 8+ years on design, develop & testing of restful APIs in NodeJS for web & mobile apps in different framework using cloud,
+- Software Engineer with 8+ years of experience designing, developing, testing, and supporting scalable backend systems, RESTful APIs, & microservices using Node.js, TypeScript, NestJS, & cloud technologies.
+- Experienced in solution design, API architecture, microservices, asynchronous communication, distributed-system patterns, performance optimization, and production troubleshooting across enterprise applications.
 DevOps & Agile. Azure and GitHub certified with cloud fundamentals skills.
 - Fun fact: The first rule of programming - if it works, don’t touch it.🤓
 - I also love writing blogs on Medium. <a href="https://medium.com/@jatingupt4">Checkout My blogs</a>
